@@ -20,7 +20,7 @@ A FastAPI application that extracts and summarizes information from resumes/CVs 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/simple-llm-resume-parser.git
+   git clone https://github.com/shreytrivedi002/simple-llm-resume-parser.git
    cd simple-llm-resume-parser
    ```
 
